@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.ticketfly.pageobjects.BasePage;
 import com.ticketfly.pageobjects.GoogleHomePage;
 import com.ticketfly.utils.PropertyLoader;
 

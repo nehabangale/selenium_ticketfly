@@ -4,8 +4,6 @@ import java.net.URL;
 
 import org.openqa.selenium.*;
 
-import com.ticketfly.tests.BasePage;
-
 public class GoogleHomePage extends BasePage
 {
 	WebDriver driver;

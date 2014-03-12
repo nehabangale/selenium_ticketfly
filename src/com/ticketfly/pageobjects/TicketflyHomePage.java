@@ -2,8 +2,6 @@ package com.ticketfly.pageobjects;
 
 import org.openqa.selenium.*;
 
-import com.ticketfly.tests.BasePage;
-
 public class TicketflyHomePage extends BasePage {
 	
 	WebDriver driver;

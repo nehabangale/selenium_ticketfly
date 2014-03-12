@@ -6,8 +6,6 @@ import java.util.Random;
 
 import org.openqa.selenium.*;
 
-import com.ticketfly.tests.BasePage;
-
 public class DeliveryMethodPage extends BasePage {
 
 	WebDriver driver;
